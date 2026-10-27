@@ -192,8 +192,15 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.hghlight-card {
+  border-left: 5px solid blue;
+}
+
 .highlight-card {
   border-left: 5px solid var(--accent);
+}
+.ighlight-card {
+  border-left: 5px solid orange;
 }
 
 .question {
